@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, the aim of the course, specific objectives, deliverables,
   expectations, the schedule, readings, and assignments.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -38,7 +40,7 @@ This seminar examines urban sustainability at the neighborhood level, in the cit
 Description
 -----------
 
-Feeding Cities in the Global South (FCGS) builds on experiences from previous MIT-Department of Urban Studies (DUSP) Latin American Metropolitan Practica (2006, 2007, 2008), carried out two years ago in Mexico City and last year in Cartagena. FCGS is a partnership between DUSP and the Center for Transportation and Logistics (CTL) with the {{% resource_link "a684a477-3ca7-4a74-b794-1dce99608558" "Universidad Tecnológica de Bolívar" %}} in Cartagena (UTB), with additional cooperation from other government agencies. Specifically, the "DUSP-side" seminar will work in close collaboration with, and proceed in parallel with, a special studies course being offered to advanced undergraduates from UTB. Integrated MIT-UTB teams will be formed during MIT's January break, and students will be responsible for effectively working in those teams. The collaboration will focus on Bazurto, representing distinct development challenges. Student teams will develop policy proposals focusing on the concept of sustainable development opportunities as they relate to challenges in food chain systems, mobility/logistics and economic development. In addition, students will use lessons learned from this exercise to inform UTB's "Agenda Against Poverty" and the city's plans for the new administration of the Food Market.
+Feeding Cities in the Global South (FCGS) builds on experiences from previous MIT-Department of Urban Studies (DUSP) Latin American Metropolitan Practica (2006, 2007, 2008), carried out two years ago in Mexico City and last year in Cartagena. FCGS is a partnership between DUSP and the Center for Transportation and Logistics (CTL) with the [Universidad Tecnológica de Bolívar](https://www.utb.edu.co/) in Cartagena (UTB), with additional cooperation from other government agencies. Specifically, the "DUSP-side" seminar will work in close collaboration with, and proceed in parallel with, a special studies course being offered to advanced undergraduates from UTB. Integrated MIT-UTB teams will be formed during MIT's January break, and students will be responsible for effectively working in those teams. The collaboration will focus on Bazurto, representing distinct development challenges. Student teams will develop policy proposals focusing on the concept of sustainable development opportunities as they relate to challenges in food chain systems, mobility/logistics and economic development. In addition, students will use lessons learned from this exercise to inform UTB's "Agenda Against Poverty" and the city's plans for the new administration of the Food Market.
 
 Students from UTB began their semester in early October and will have developed initial diagnoses and process indicators of the Food Market when these diagnoses will be shared with MIT students and faculty. Formal face-to-face collaborations between MIT and UTB will occur during an MIT visit to Cartagena. Additional collaboration will occur via email and other relevant media. The intention is for students from the two schools to learn from each other and use relative strengths in developing their final products.
 
@@ -89,6 +91,6 @@ Schedule, Readings, Assignments
 
 ### Every Week
 
-Students should read the on-line daily newspaper {{% resource_link "c6d5d7f9-943f-4bd0-9f21-1efe28e0d25c" "_El Universal_" %}} and come prepared to talk about major events, etc. with particular relevance to Cartagena and the objectives of the Practicum: 
+Students should read the on-line daily newspaper [_El Universal_](http://www.eluniversal.com.co/) and come prepared to talk about major events, etc. with particular relevance to Cartagena and the objectives of the Practicum: 
 
-In addition, students should familiarize themselves with the client, {{% resource_link "c576923e-f0a3-40cd-8cab-688c7adc08ae" "la Alcaldía Distrital de Cartagena de Indias" %}}, by closely examining the website and the numerous useful documents and other information contained therein:
+In addition, students should familiarize themselves with the client, [la Alcaldía Distrital de Cartagena de Indias](http://www.cartagena.gov.co/), by closely examining the website and the numerous useful documents and other information contained therein:

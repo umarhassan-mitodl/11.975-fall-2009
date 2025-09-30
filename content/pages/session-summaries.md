@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics along with summaries
   of each course session.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Session Summaries
