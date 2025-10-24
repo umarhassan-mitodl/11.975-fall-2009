@@ -5,8 +5,6 @@ description: 'Article provided for a reading assignment: "Mercado de Bazurto: Co
 file: /courses/11-975-feeding-cities-in-the-global-south-challenges-and-opportunities-for-action-in-cartagena-fall-2009/e73e6d162e77645a4f07b0ceb090f9a2_MIT11_975F09_Final_Report.pdf
 file_size: 2780169
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
